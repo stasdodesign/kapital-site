@@ -1,0 +1,10 @@
+# robots.txt — https://xn--80aamemkkkv5ae0n.xn--p1ai («Капитал Детям»)
+# Обновлён: 2026-10-29
+
+User-agent: *
+Allow: /
+# Серверные API-функции и колбэк аутентификации — в индекс не нужны
+Disallow: /api/
+Disallow: /auth-callback
+
+Sitemap: https://xn--80aamemkkkv5ae0n.xn--p1ai/sitemap.xml
