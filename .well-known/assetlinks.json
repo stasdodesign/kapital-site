@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stanislavdovidenko.kapital",
+    "sha256_cert_fingerprints": ["0F:29:E4:ED:C0:0A:58:E6:85:C9:B6:DC:57:77:2F:5B:1E:F4:18:2C:66:7E:E3:06:57:2D:C2:66:78:64:30:D3"]
+  }
+}]
